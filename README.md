@@ -18,7 +18,7 @@
 Скопируйте репозиторий на свой компьютер с помощью команды:
 
 ```bash
-git clone https://github.com/yarickmalyshev/test_Effective_Mobile.git
+git clone https://github.com/yarickmalyshev/monitoring-script.git
 ```
 
 ### 2. Копирование файлов
