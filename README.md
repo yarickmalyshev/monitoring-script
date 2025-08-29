@@ -62,7 +62,8 @@ sudo systemctl start mymonitoring.timer
 sudo systemctl status mymonitoring.timer
 ```
 
-<img width="2230" height="364" alt="image" src="https://github.com/user-attachments/assets/00190411-3e59-4e56-abf0-7bcec1f244a0" />
+<img width="1652" height="259" alt="image" src="https://github.com/user-attachments/assets/02283c3f-24c9-42e2-a2f8-fd85866620bd" />
+
 
 Или для проверки самого сервиса:
 
@@ -70,6 +71,7 @@ sudo systemctl status mymonitoring.timer
 sudo systemctl status mymonitoring.service
 ```
 
-<img width="1988" height="419" alt="image" src="https://github.com/user-attachments/assets/234a69d6-2d99-4c7c-9adc-66d0bf1fbb77" />
+<img width="2355" height="369" alt="image" src="https://github.com/user-attachments/assets/7dd55587-d0f0-40ab-9ff1-efb885860d93" />
+
 
 ---
